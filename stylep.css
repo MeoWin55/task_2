@@ -1,0 +1,71 @@
+*
+body{
+    background-color:rgb(217, 150, 202);
+}
+
+.badan h1{
+    color: blueviolet;
+    margin-left: 30%;
+}
+
+.badan
+{
+    width: 880px;
+    margin: 35px auto;
+    background-color: white;
+    padding: 20px;
+    padding-left: 40px;
+    margin-top: 10%;
+    overflow: hidden;
+}
+
+.form-input{
+    border: 1px solid gainsboro;
+    padding: 10px;
+    float: left;
+    width: 300px;
+    margin: 5px;
+    margin-left: 30%;
+}
+
+.form-input{
+    border: 1px solid gainsboro;
+    padding: 10px;
+    float: left;
+    width: 300px;
+    margin: 5px;
+    margin-left: 30%;
+}
+
+.input-form{
+    text-decoration: none;
+    border-radius: 2px;
+    padding: 1px;
+    display: block;
+    float: left;
+    width: 90%;
+    margin: 4px;
+    text-align: center;
+    color:black;
+    
+}
+
+.tombol
+{
+    background-color: rgb(231, 54, 219);
+    text-decoration: none;
+    border-radius: 7px;
+    padding: 7px;
+    display: block;
+    float: left;
+    margin: 4px;
+    text-align: center;
+    color: white;
+    width: 92%;
+}
+
+.tombol:hover
+{
+    background-color: black;
+    transition-duration: 700ms;    
+}
